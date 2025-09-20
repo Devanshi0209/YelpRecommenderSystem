@@ -1,5 +1,5 @@
 
-# Yelp Restaurant Recommender System
+# Yelp Recommender System
 
 This project builds a personalized restaurant recommendation engine using Yelp reviews and business metadata. It integrates sentiment analysis and collaborative filtering to predict star ratings and recommend top restaurants.
 
