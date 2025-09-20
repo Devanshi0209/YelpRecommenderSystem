@@ -29,7 +29,7 @@ This project builds a personalized restaurant recommendation engine using Yelp r
 ```
 .
 ├── YelpRecommenderSystem.py # Main codebase
-├── YelpRecommenderSystem.ipynb # Colab development notebook
+├── YelpRecommenderSystem.ipynb # Colab development notebook showing all visualizations
 ├── ProjectReport.pdf # Final project report
 └── README.md # About the project
 ```
