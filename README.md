@@ -41,5 +41,5 @@ pip install pandas numpy scikit-learn matplotlib nltk vaderSentiment
 
 ## Run
 ```bash
-python assignment_2.py
+python YelpRecommenderSystem.py
 ```
